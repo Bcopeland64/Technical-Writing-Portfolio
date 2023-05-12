@@ -1,7 +1,7 @@
 # Technical-Writing-Portfolio
 
 <h1 align="center">Hi 👋, I'm Brandon Copeland</h1>
-<h3 align="center">A passionate Machine Learning Engineer who is working on upgrading thie skills in my Machine Learning toolbox</h3>
+<h3 align="center">A passionate Machine Learning Engineer who is working on upgrading the skills in my Machine Learning toolbox</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bcopeland64" alt="bcopeland64" /></a> </p>
 
